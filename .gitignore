@@ -28,3 +28,8 @@ hs_err_pid*
 out/
 .idea/*.xml
 .idea/*.iml
+factory-pattern/factory-pattern.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/DesignPattern.iml
