@@ -35,3 +35,4 @@ factory-pattern/factory-pattern.iml
 .idea/*.iml
 *.iml
 *.iml
+factory/factory.iml
